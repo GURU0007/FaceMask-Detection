@@ -1,6 +1,5 @@
 ## FaceMask-Detection
-This Project is implemented by using Keras-tensorflow,opencv and python.
-It contains 3 parts
+This Project is implemented by using Keras-tensorflow,opencv and python.It contains 3 parts
 1.Data Preprocessing
 2.Training the CNN
 3.Detecting Mask
